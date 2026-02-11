@@ -25,4 +25,5 @@ i am going to learn about how to add any file in git and publish it on github.
       10. So for that, basically what just happens is 'my history of making file' making conflict to my Github repository so for that we did "git pull origin main" and another \"git pull origin main --allow-unrelated-history" than after we try to "git push origin main" which resolve over confiliction.
       11. so when now we check "git branch" it's shows us 'main' 
         *By running "git push -u origin main" we can simply tell the git that we want to push always in this in this repository.
-      12.                  )
+      12. We always have to save our file before commiting.
+      13.                )
