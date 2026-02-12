@@ -30,4 +30,9 @@ i am going to learn about how to add any file in git and publish it on github.
       14. Now want to list all the branch you can do it by command "git branch", and if you want to remove any of branch you can do it by command "git branch -d <name>", and than list it by "git branch".
       15. we have to be in same branch in which we want to store our work.
       16. Now we use our add function command "git add <name of file> or <'.' for all> and than commit it by command "git commit -m "<message>", and than push it by command git push origin <branch name>, than you can se it in Github.
-      17. Now whenever you chain branches via command "git checkout <branch name>", you see only those changes which you commit in that particular branch only.                )
+      17. Now whenever you chain branches via command "git checkout <branch name>", you see only those changes which you commit in that particular branch only.
+      18. Now we learn about merger of two git branches to one so we can do it in different ways.
+        i. We have to compare it via command "git diff <branch name>" or if only want to compare summary than use "git diff --stat main..b1" and for just file name we have "git diff --name-only main..b1".
+        ii. Now we can just simply do it via command git merge <branch name>.
+        iii. or we can make Pull Request 'PR' and compare and make pull request in Github and than used to compare and github tells you it can merge itself or not if not than you have to merge it by yourself by editing the code.
+      19.                   )
