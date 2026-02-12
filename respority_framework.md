@@ -26,4 +26,6 @@ i am going to learn about how to add any file in git and publish it on github.
       11. so when now we check "git branch" it's shows us 'main' 
         *By running "git push -u origin main" we can simply tell the git that we want to push always in this in this repository.
       12. We always have to save our file before commiting.
-      13.                )
+      13. Now we are going to understand about branches, firstly to locate in which branch we are currently in via command "git branch" than after locating if we want to add new branch than we can do it by command "git checkout -b <name>" <name> == branch name.
+      14. Now want to list all the branch you can do it by command "git branch", and if you want to remove any of branch you can do it by command "git branch -d <name>", and than list it by "git branch".
+      15.                 )
