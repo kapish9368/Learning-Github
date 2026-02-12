@@ -28,4 +28,6 @@ i am going to learn about how to add any file in git and publish it on github.
       12. We always have to save our file before commiting.
       13. Now we are going to understand about branches, firstly to locate in which branch we are currently in via command "git branch" than after locating if we want to add new branch than we can do it by command "git checkout -b <name>" <name> == branch name.
       14. Now want to list all the branch you can do it by command "git branch", and if you want to remove any of branch you can do it by command "git branch -d <name>", and than list it by "git branch".
-      15.                 )
+      15. we have to be in same branch in which we want to store our work.
+      16. Now we use our add function command "git add <name of file> or <'.' for all> and than commit it by command "git commit -m "<message>", and than push it by command git push origin <branch name>, than you can se it in Github.
+      17. Now whenever you chain branches via command "git checkout <branch name>", you see only those changes which you commit in that particular branch only.                )
